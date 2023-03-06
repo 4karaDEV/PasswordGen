@@ -38,7 +38,7 @@ Enjoys
 ## <a id="changelog"></a>💭 〢 ChangeLog
 
 ```diff
-v1.0 ⋮ 2023-03-6
+v1.0 ⋮ 2023-03-06
 + PasswordGen
 + SavePassword
 - Choose (special caracteres/upper case caracteres/tiny caracteres/number caracteres)
