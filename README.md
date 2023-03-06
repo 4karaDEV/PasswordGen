@@ -25,9 +25,9 @@
 ## <a id="setup"></a>🔌 〢 Setup
 
 - PostSetup
-
 1. Need [Python](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
 
+- Setup terminal
 ```
 1.
 $ git clone https://github.com/4karaDEV/PasswordGen.git
@@ -66,5 +66,6 @@ v1.1 ⋮ Soon
 - [x] Reselling is forbidden
 - [x] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
 - [x] We are NOT responsible of anything you do with our software (if its illegal)
+- [ ] Give to your friend
 
 
