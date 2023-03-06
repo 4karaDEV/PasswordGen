@@ -23,11 +23,6 @@
 - [💼・Term](#terms)
 
 ## <a id="setup"></a>🔌 〢 Setup
-
-- PostSetup
-1. Need [Python](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
-
-- Setup terminal
 ```
 1.
 $ git clone https://github.com/4karaDEV/PasswordGen.git
