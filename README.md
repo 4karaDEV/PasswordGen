@@ -61,6 +61,7 @@ v1.1 ⋮ Soon
 - [x] Reselling is forbidden
 - [x] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
 - [x] We are NOT responsible of anything you do with our software (if its illegal)
-- [ ] Give to your friend
+- [x] Give to your friend
+- [ ] Send to nasa
 
 
